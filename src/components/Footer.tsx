@@ -1,4 +1,4 @@
-import { BookOpen, Github, Search, Twitter, MessageCircle } from 'lucide-react';
+import { Github, Twitter, MessageCircle } from 'lucide-react';
 
 export function Footer() {
   const links = {
@@ -28,9 +28,9 @@ export function Footer() {
   };
 
   const socialLinks = [
-    { icon: Github, href: '#', label: 'GitHub' },
-    { icon: Twitter, href: '#', label: 'Twitter' },
-    { icon: MessageCircle, href: '#', label: 'Discord' },
+    { icon: Github, href: 'https://github.com/Kudora-Labs', label: 'GitHub' },
+    { icon: Twitter, href: 'https://x.com/KudoraChain', label: 'X' },
+    { icon: MessageCircle, href: 'https://discord.gg/tRzeP4Cy', label: 'Discord' },
   ];
 
   return (
@@ -104,9 +104,12 @@ export function Footer() {
 
         <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex items-center gap-3">
-            <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-purple-600 to-teal-600 flex items-center justify-center">
-              <span className="text-white font-bold text-sm">K</span>
-            </div>
+
+            <img
+              src="/logo_dark_v1.svg"
+              alt="Kudora Logo"
+              className="w-12 h-12 border-white border rounded-full"
+            />
             <div>
               <div className="text-white font-bold">Kudora</div>
               <div className="text-gray-500 text-xs">Layer-1 Blockchain</div>
