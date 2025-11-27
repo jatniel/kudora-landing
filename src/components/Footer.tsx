@@ -5,8 +5,8 @@ export function Footer() {
     resources: [
       { name: 'Documentation', href: 'https://github.com/Kudora-Labs' },
       { name: 'Block Explorer', href: '#' },
-      { name: 'GitHub', href: '#' },
-      { name: 'Cosmos Directory', href: '#' },
+      { name: 'GitHub', href: 'https://github.com/Kudora-Labs' },
+      { name: 'Cosmos Directory', href: 'https://cosmos.directory/kudora' },
     ],
     community: [
       { name: 'Discord', href: 'https://discord.gg/tRzeP4Cy' },
