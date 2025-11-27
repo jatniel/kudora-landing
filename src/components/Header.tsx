@@ -1,5 +1,6 @@
 import { Github, FileText, Book } from "lucide-react";
 import { motion } from "framer-motion";
+import logo from "../assets/logo_dark_v1.svg";
 
 export function Header() {
   return (
@@ -17,7 +18,7 @@ export function Header() {
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
           >
             <img
-              src="/logo_dark_v1.svg"
+              src={logo}
               alt="Kudora Logo"
               className="w-12 h-12 border-white border rounded-full"
             />

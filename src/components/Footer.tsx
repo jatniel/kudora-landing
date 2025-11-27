@@ -1,4 +1,5 @@
 import { socialLinks } from "../utils/socialUtils";
+import logo from "../assets/logo_dark_v1.svg";
 
 export function Footer() {
   const links = {
@@ -100,7 +101,7 @@ export function Footer() {
           <div className="flex items-center gap-3">
 
             <img
-              src="/logo_dark_v1.svg"
+              src={logo}
               alt="Kudora Logo"
               className="w-12 h-12 border-white border rounded-full"
             />
