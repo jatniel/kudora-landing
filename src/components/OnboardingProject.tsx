@@ -85,7 +85,7 @@ export function OnboardingProject() {
     {
       title: "As Builder - Take Task",
       description:
-        "Discover how to claim and work on Tasks. Get rewarded upon completion.",
+        "Claim and work on Project Tasks that interest you. Get rewarded upon completion.",
       src: takeNftGif,
     },
   ];
