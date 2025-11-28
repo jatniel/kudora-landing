@@ -4,43 +4,43 @@ import { Rocket, Users, Scale, Wrench, Handshake } from 'lucide-react';
 export function Roadmap() {
   const quarters = [
     {
-      quarter: 'Q1',
-      title: 'Ecosystem Expansion',
+      quarter: 'Step 1',
+      title: 'Ecosystem Launch',
       icon: Rocket,
       items: [
-        'Launch developer incentive programs',
-        'Expand core infrastructure',
-        'Initial dApp deployments',
+        'Launch Kudora Mainnet',
+        'Network Decentralization',
+        'Network Decurity Enhancements',
       ],
     },
     {
-      quarter: 'Q2',
-      title: 'Builder Programs',
+      quarter: 'Step 2',
+      title: 'Program Task Deployments',
       icon: Users,
       items: [
-        'Developer grants program',
-        'Hackathons and bounties',
-        'Technical workshops and resources',
+        'Project Community Validations',
+        'Owner & Builder Board Views',
+        'System Rewards Integration',
       ],
     },
     {
-      quarter: 'Q3',
-      title: 'Governance Framework',
+      quarter: 'Step 3',
+      title: 'Recognition & Reputation',
       icon: Scale,
       items: [
-        'Community governance implementation',
-        'Proposal system launch',
-        'Transparent voting mechanisms',
+        'Contributor Traceability',
+        'Mentorship & Sponsorship Mechanisms',
+        'Governance Reputation Oriented',
       ],
     },
     {
-      quarter: 'Q4',
-      title: 'Tooling & Partnerships',
+      quarter: 'Step 4',
+      title: 'Dispute Resolution',
       icon: Wrench,
       items: [
-        'Native developer tooling',
-        'Strategic partnerships',
-        'Cross-chain integrations',
+        'Jury Selection System',
+        'Judgment & Appeals Process',
+        'Rewards & Penalties Implementation',
       ],
     },
   ];

@@ -11,22 +11,22 @@ export function EcosystemVision() {
         "Developers receive recognition for contributing real value to the ecosystem",
     },
     {
-      icon: Target,
-      title: "Meaningful dApps",
+      icon: Users,
+      title: "Builder Community",
       description:
-        "Focus on creating impactful applications, infrastructure, and tools",
+        "A thriving community of developers building the future together",
     },
     {
       icon: Sparkles,
       title: "Sustainable Development",
       description:
-        "Not oriented toward hype, but toward long-term sustainable growth",
+      "Not oriented toward hype, but toward long-term sustainable growth",
     },
     {
-      icon: Users,
-      title: "Builder Community",
+      icon: Target,
+      title: "Meaningful dApps",
       description:
-        "A thriving community of developers building the future together",
+        "Focus on creating impactful applications, infrastructure, and tools",
     },
   ];
 
