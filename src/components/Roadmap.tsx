@@ -10,7 +10,7 @@ export function Roadmap() {
       items: [
         'Launch Kudora Mainnet',
         'Network Decentralization',
-        'Network Decurity Enhancements',
+        'Network Security Enhancements',
       ],
     },
     {

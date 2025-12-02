@@ -1,6 +1,7 @@
 import { Hero } from "./components/Hero";
 import { Header } from "./components/Header";
 import { Overview } from "./components/Overview";
+import { OnboardingProject } from "./components/OnboardingProject";
 import { WhyKudora } from "./components/WhyKudora";
 import { NetworkStatus } from "./components/NetworkStatus";
 import { EcosystemVision } from "./components/EcosystemVision";
@@ -18,6 +19,7 @@ function App() {
       <Roadmap />
       <TokenUtility />
       <Overview />
+      <OnboardingProject />
       <WhyKudora />
       <NetworkStatus />
       <CallToAction />
