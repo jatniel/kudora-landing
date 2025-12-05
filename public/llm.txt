@@ -1,0 +1,592 @@
+# ======================================================
+# LLM META FILE — SEO & PROJECT METADATA
+# Project: Kudora
+# Domain: https://kudora.org
+# Version: 2.0
+# Last Updated: 2024-12-05
+# ======================================================
+
+project:
+  name: "Kudora"
+  domain: "https://kudora.org"
+  type: "Layer-1 Blockchain"
+  industry: "Blockchain, Web3, Cosmos Ecosystem, DeFi"
+  primary_language: "en"
+  secondary_languages: []
+  short_description: >
+    Kudora is a high-performance Layer-1 blockchain built on Cosmos SDK,
+    enabling developers to build scalable dApps with native IBC interoperability.
+    Fast, secure, and optimized for the next generation of Web3.
+
+branding:
+  tagline: "Scalable. Secure. Built for Web3."
+  alternative_taglines:
+    - "Build Fast. Scale Global. Connect Everything."
+    - "The Interoperable Blockchain for Limitless dApps"
+  mission: >
+    To provide high-performance, interoperable blockchain infrastructure
+    that empowers developers and validators to build and operate
+    next-generation decentralized applications with unprecedented ease and efficiency.
+  vision: >
+    A blockchain ecosystem where speed, scalability and interoperability
+    enable global adoption of decentralized technologies, bridging the gap
+    between traditional systems and the decentralized future.
+  tone_of_voice:
+    - "Professional yet approachable"
+    - "Technical but accessible to non-experts"
+    - "Focused on real-world utility"
+    - "Transparent about capabilities and roadmap"
+    - "Forward-looking and innovation-driven"
+
+brand_keywords:
+  primary:
+    - "Kudora"
+    - "Kudora blockchain"
+    - "Kudora network"
+    - "KUD token"
+  secondary:
+    - "Cosmos SDK blockchain"
+    - "IBC protocol"
+    - "Layer-1 blockchain"
+    - "Web3 infrastructure"
+    - "validator network"
+    - "decentralized applications"
+    - "interoperable blockchain"
+    - "Cosmos ecosystem"
+
+seo:
+  search_intent:
+    - "informational: what is Kudora, how it works, technology behind Kudora"
+    - "developer: how to build, integrate, deploy, and develop on Kudora"
+    - "validator: how to run a node, stake, secure the network, validator requirements"
+    - "ecosystem: partners, listings, explorer, whitepaper, community resources"
+    - "comparison: Kudora vs other Cosmos chains, Kudora features"
+  main_keywords:
+    - "Kudora blockchain"
+    - "Kudora network"
+    - "Kudora L1"
+    - "Kudora Layer 1"
+    - "KUD token"
+    - "Cosmos SDK blockchain"
+    - "IBC compatible chain"
+    - "Cosmos ecosystem chain"
+  semantic_keywords:
+    - "decentralized apps"
+    - "dApp development"
+    - "IBC interoperability"
+    - "cross-chain communication"
+    - "staking blockchain"
+    - "proof of stake consensus"
+    - "validator onboarding"
+    - "web3 infrastructure"
+    - "blockchain performance"
+    - "cosmos ibc network"
+    - "tendermint consensus"
+    - "blockchain scalability"
+    - "ethereum compatible cosmos"
+    - "ethsecp256k1 blockchain"
+    - "metamask cosmos integration"
+    - "cross-ecosystem wallet support"
+  long_tail_keywords:
+    - "how to build on Kudora"
+    - "Kudora validator setup guide"
+    - "KUD token staking rewards"
+    - "Cosmos SDK chain development"
+    - "IBC enabled blockchain"
+    - "Kudora network architecture"
+    - "ethereum wallet cosmos chain"
+    - "metamask cosmos blockchain"
+    - "ethsecp256k1 cosmos sdk"
+    - "cosmos chain ethereum compatibility"
+  metadata_goals:
+    - "Improve ranking for Cosmos / IBC ecosystem searches"
+    - "Strengthen brand searchability around Kudora and KUD"
+    - "Clarify messaging for developers and validators"
+    - "Provide consistent SEO metadata across all core pages"
+    - "Establish authority in Cosmos ecosystem"
+    - "Increase discoverability for dApp builders seeking Cosmos chains"
+
+audience:
+  primary:
+    - "Blockchain developers with Cosmos SDK experience"
+    - "Ethereum developers exploring Cosmos ecosystem"
+    - "Web3 builders and protocol engineers"
+    - "Node operators and validators"
+    - "Technical users familiar with Cosmos and IBC"
+    - "DeFi protocol developers seeking cross-chain capabilities"
+  secondary:
+    - "Crypto enthusiasts and early adopters"
+    - "Ecosystem partners and integrators"
+    - "Blockchain analysts and researchers"
+    - "Investment analysts in blockchain space"
+    - "Cross-chain bridge developers"
+    - "MetaMask/Ethereum wallet users exploring Cosmos"
+  tertiary:
+    - "Students learning blockchain development"
+    - "Traditional developers exploring Web3"
+    - "Enterprises evaluating blockchain solutions"
+
+pages:
+  home:
+    path: "/"
+    title: "Kudora — Scalable Layer-1 Blockchain for Web3 | Cosmos SDK"
+    description: >
+      Kudora is a high-performance Cosmos SDK blockchain designed for fast,
+      secure and scalable decentralized applications with full IBC interoperability.
+    h1: "Build the Future on Kudora"
+    goals:
+      - "Introduce Kudora as a premier Layer-1 blockchain"
+      - "Explain core value propositions: scalability, interoperability, security"
+      - "Direct users to technical docs, explorer, and whitepaper"
+      - "Showcase unique differentiators vs other Cosmos chains"
+      - "Provide clear CTAs for developers and validators"
+
+  docs:
+    path: "/docs"
+    title: "Kudora Documentation — Build, Connect and Validate"
+    description: >
+      Access comprehensive technical documentation to build on Kudora,
+      integrate with the network, and run a validator node.
+    goals:
+      - "Serve as authoritative technical reference for developers"
+      - "Explain node setup, RPC endpoints, APIs and development tooling"
+      - "Provide code examples and integration guides"
+      - "Document network parameters and consensus rules"
+
+  validators:
+    path: "/validators"
+    title: "Kudora Validators — Staking, Nodes and Network Security"
+    description: >
+      Learn how to join the Kudora validator set, stake KUD tokens,
+      and contribute to securing the network while earning rewards.
+    goals:
+      - "Onboard new validators with clear requirements"
+      - "Explain hardware specs, staking mechanics and incentives"
+      - "Provide validator setup tutorials and best practices"
+      - "Detail commission structures and reward distribution"
+
+  whitepaper:
+    path: "/white-paper/"
+    title: "Kudora Whitepaper — Protocol Design and Network Vision"
+    description: >
+      Read the official Kudora whitepaper covering protocol architecture,
+      consensus mechanism, token economics and long-term network vision.
+    goals:
+      - "Provide authoritative, in-depth technical and economic reference"
+      - "Clarify tokenomics, governance model and economic incentives"
+      - "Explain architectural decisions and trade-offs"
+      - "Present roadmap and future development plans"
+
+  ecosystem:
+    path: "/ecosystem"
+    title: "Kudora Ecosystem — Tools, Integrations and Partners"
+    description: >
+      Discover developer tools, block explorers, wallets, ecosystem integrations,
+      and community resources in the growing Kudora network.
+    goals:
+      - "Present the broader Kudora ecosystem landscape"
+      - "Link to explorer, Cosmos Directory, GitHub and community channels"
+      - "Showcase dApps and protocols built on Kudora"
+      - "Highlight partnerships and integrations"
+
+  contact:
+    path: "/contact"
+    title: "Contact Kudora — Community & Support"
+    description: >
+      Get in touch with the Kudora team, join the community channels,
+      or request integration and partnership information.
+    goals:
+      - "Offer clear contact points for different user types"
+      - "Direct users to appropriate community channels"
+      - "Provide partnership inquiry process"
+
+technology:
+  stack:
+    - "Cosmos SDK v0.6"
+    - "CometBFT (formerly Tendermint)"
+    - "IBC protocol (Inter-Blockchain Communication)"
+    - "Golang (core chain implementation)"
+    - "ethsecp256k1 key algorithm (Ethereum-compatible signatures)"
+    - "REST and RPC endpoints for developer access"
+
+  key_features:
+    - "High-throughput Layer-1 chain optimized for performance"
+    - "Native IBC interoperability with 100+ Cosmos chains"
+    - "Ethereum-compatible key algorithm (ethsecp256k1) for wallet compatibility"
+    - "Decentralized validator network with robust security"
+    - "Secure staking mechanism and on-chain governance"
+    - "Developer-friendly architecture with extensive tooling"
+    - "Fast block finality with CometBFT consensus"
+    - "Low transaction fees with predictable gas costs"
+    - "Active development with regular network upgrades"
+    - "EVM compatibility potential through ethsecp256k1 support"
+
+  technical_specifications:
+    consensus_mechanism: "CometBFT (Byzantine Fault Tolerant PoS)"
+    block_time: ""
+    finality: "Instant finality with 2/3+ validator consensus (CometBFT)"
+    throughput: ""
+    validator_set_size: ""
+    min_validator_stake: ""
+    key_algorithm: "ethsecp256k1 (Ethereum-compatible)"
+
+  positioning:
+    - "Premier member of the Cosmos ecosystem"
+    - "Focused on developer experience and production-ready infrastructure"
+    - "Optimized for DeFi protocols and high-frequency applications"
+    - "Built for cross-chain interoperability from day one"
+    - "Suitable for DeFi, infrastructure, gaming, and enterprise Web3 applications"
+
+network:
+  status: "mainnet"
+  chain_id: "kudora_12000-1"
+  chain_type: "cosmos"
+  network_type: "mainnet"
+  pretty_name: "Kudora"
+  bech32_prefix: "kudo"
+  slip44: 60
+  key_algos:
+    - "ethsecp256k1"
+  daemon_name: "kudorad"
+  node_home: "$HOME/.kudora"
+  cosmos_sdk_version: "v0.6"
+  current_height: "1787295+"
+  current_version: "v1.0.0"
+  compatible_versions:
+    - "v1.0.0"
+
+  repository:
+    git_repo: "https://github.com/Kudora-Labs/kudora"
+    genesis_url: "https://raw.githubusercontent.com/Kudora-Labs/kud-network-mainnet/main/genesis.json"
+    recommended_version: "v1.0.0"
+
+  endpoints:
+    rpc: []
+    rest: []
+    grpc: []
+    websocket: []
+
+  gas_fees:
+    fee_token: "kud"
+    fee_token_minimal: "akud"
+    low_gas_price: ""
+    average_gas_price: ""
+    high_gas_price: ""
+
+technical_notes:
+  chain_id_format:
+    explanation: >
+      The chain ID format 'kudora_12000-1' follows the EIP155 pattern
+      (name_evm-chain-id-version), suggesting potential EVM compatibility
+      or preparation for EVM module integration.
+    evm_chain_id: "12000"
+    cosmos_version_suffix: "1"
+
+  slip44_significance:
+    coin_type: 60
+    explanation: >
+      Slip44 coin type 60 is Ethereum's standard. This choice indicates
+      Kudora's alignment with Ethereum tooling and wallet infrastructure,
+      enabling compatibility with MetaMask and other Ethereum wallets.
+
+  ethsecp256k1_advantages:
+    - "Single wallet for both Cosmos and Ethereum interactions"
+    - "Lower friction for Ethereum developers entering Cosmos"
+    - "Broader wallet ecosystem support"
+    - "Familiar key management for Ethereum users"
+    - "Potential for cross-chain signature verification"
+
+  potential_evm_features:
+    status: ""
+    possibilities:
+      - "Full EVM execution environment (like Evmos/Cronos)"
+      - "EVM precompiles for specific functionality"
+      - "Future EVM integration planned"
+      - "EVM-compatible tooling without full EVM runtime"
+    important_note: >
+      The combination of kudora_12000-1 chain ID format, Slip44 type 60,
+      and ethsecp256k1 strongly suggests EVM-related features either
+      currently implemented or planned for future releases. This should be
+      clarified in documentation as it's a major differentiator.
+
+token:
+  symbol: "KUD"
+  name: "Kudora Token"
+  denom: "kud"
+  minimal_denom: "akud"
+  decimals: 18
+  # Note: Using 'a' prefix (atto) typically indicates 18 decimals in Cosmos chains
+  # If decimals differ, update accordingly
+
+  use_cases:
+    - "Network transaction fees (gas)"
+    - "Staking for network security and validator rewards"
+    - "On-chain governance voting power"
+    - "Validator commission and delegation rewards"
+
+  tokenomics:
+    total_supply: ""
+    initial_supply: ""
+    max_supply: ""
+    inflation_rate: ""
+    staking_apr: ""
+    bonding_period: ""
+
+  distribution: []
+
+  listings:
+    exchanges: []
+    dexes: []
+    price_tracking: []
+
+metrics:
+  network_status: "mainnet (live)"
+  current_block_height: "1,787,295+"
+
+  total_validators: ""
+  active_validators: ""
+  total_staked: ""
+  staking_ratio: ""
+  network_uptime: ""
+  avg_tps: ""
+  total_transactions: ""
+  unique_addresses: ""
+
+  # Network maturity indicators
+  mainnet_launch: ""
+  time_since_launch: ""
+  network_upgrades: "v1.0.0 (current)"
+
+official_resources:
+  main_site:
+    url: "https://kudora.org/"
+    importance: "primary"
+    description: "Main entry point for the Kudora blockchain ecosystem."
+
+  block_explorer:
+    url: "https://blockscout.kudora.org/"
+    importance: "critical"
+    description: "Official Blockscout explorer providing blocks, transactions, address data, and network statistics."
+
+  cosmos_directory:
+    url: "https://cosmos.directory/kudora"
+    importance: "ecosystem_presence"
+    description: "Official Cosmos ecosystem directory listing for Kudora with chain metadata and resources."
+
+  github:
+    url: "https://github.com/Kudora-Labs"
+    importance: "development_core"
+    description: "Main GitHub organization hosting Kudora blockchain source code, tools, and documentation."
+
+  whitepaper:
+    url: "https://kudora.org/white-paper/"
+    importance: "strategic_document"
+    description: "Official Kudora whitepaper detailing protocol design, token economics, and long-term vision."
+
+community:
+  discord: "https://discord.com/invite/tRzeP4Cy"
+  twitter: "https://x.com/KudoraChain"
+  linkedin: "https://www.linkedin.com/company/kudora/"
+  telegram: ""
+  medium: ""
+  youtube: ""
+  reddit: ""
+
+  support:
+    developer_support: ""
+    validator_support: ""
+    general_inquiries: ""
+    partnerships: ""
+
+developer_resources:
+  documentation: "https://kudora.org/docs"
+
+  github_repos:
+    main_chain: "https://github.com/Kudora-Labs/kudora"
+    network_config: "https://github.com/Kudora-Labs/kud-network-mainnet"
+    genesis_file: "https://raw.githubusercontent.com/Kudora-Labs/kud-network-mainnet/main/genesis.json"
+
+    sdk_examples: ""
+    smart_contracts: ""
+
+  node_setup:
+    daemon: "kudorad"
+    home_directory: "$HOME/.kudora"
+    chain_id: "kudora_12000-1"
+    minimum_version: "v1.0.0"
+    installation_guide: ""
+
+  tools:
+    required:
+      - "Cosmos SDK CLI (kudorad)"
+      - "Golang 1.21+ (for building from source)"
+    recommended:
+      - "CosmJS library for JavaScript/TypeScript development"
+      - "Keplr Wallet (Ethereum-compatible with ethsecp256k1)"
+      - "MetaMask (potentially compatible due to ethsecp256k1)"
+    monitoring:
+      - "Blockscout Explorer: https://blockscout.kudora.org/"
+      - "Cosmos Directory: https://cosmos.directory/kudora"
+
+  wallet_compatibility:
+    # ethsecp256k1 enables Ethereum wallet compatibility
+    - "Keplr (full support)"
+    - "Leap Wallet (Cosmos-native)"
+    - "MetaMask (potentially compatible - verify)"
+    - "Cosmostation (Cosmos ecosystem)"
+
+  tutorials: []
+
+competitive_positioning:
+  cosmos_ecosystem_context: >
+    Kudora is part of the Cosmos ecosystem, benefiting from the robust
+    Cosmos SDK framework and native IBC connectivity to 100+ chains.
+    Uniquely, Kudora uses ethsecp256k1 key algorithm, providing potential
+    Ethereum wallet compatibility alongside native Cosmos functionality.
+
+  differentiators:
+    - "Ethereum-compatible key algorithm (ethsecp256k1) - rare in Cosmos ecosystem"
+    - "Potential for broader wallet support (MetaMask + Keplr compatibility)"
+    - "Developer-first approach with comprehensive documentation and tooling"
+    - "Active mainnet with growing validator set and ecosystem"
+    - "Lower barrier to entry for validators compared to established chains"
+    - "Active governance with community-driven development"
+    - "Modern Cosmos SDK implementation with latest features"
+
+  unique_technical_features:
+    - "ethsecp256k1 enables cross-ecosystem wallet compatibility"
+    - "Chain ID format (kudora_12000-1) suggests EVM compatibility consideration"
+    - "Slip44 coin type 60 (Ethereum's) confirms Ethereum-aligned tooling"
+
+  comparison_points:
+    vs_cosmos_hub: "Kudora offers Ethereum-compatible key algorithm for broader wallet ecosystem access"
+    vs_osmosis: "While Osmosis specializes in DEX functionality, Kudora provides general-purpose L1 infrastructure with potential EVM features"
+    vs_ethereum_l2s: "Native Cosmos SDK chain with IBC, not dependent on Ethereum security model, but maintains wallet compatibility"
+    vs_evmos: "Similar ethsecp256k1 approach but "
+    vs_other_cosmos_chains: "Unique combination of Cosmos SDK benefits with Ethereum ecosystem tooling compatibility"
+
+schema_org:
+  organization:
+    "@context": "https://schema.org"
+    "@type": "Organization"
+    name: "Kudora"
+    url: "https://kudora.org"
+    logo: "https://kudora.org/logo.svg"
+    description: "High-performance Layer-1 blockchain built on Cosmos SDK with native IBC interoperability"
+    sameAs:
+      - "https://github.com/Kudora-Labs"
+      - "https://x.com/KudoraChain"
+      - "https://discord.com/invite/tRzeP4Cy"
+      - "https://www.linkedin.com/company/kudora/"
+      - "https://cosmos.directory/kudora"
+
+  webSite:
+    "@context": "https://schema.org"
+    "@type": "WebSite"
+    name: "Kudora"
+    url: "https://kudora.org"
+    description: "Official website for Kudora blockchain"
+    potentialAction:
+      "@type": "SearchAction"
+      target:
+        "@type": "EntryPoint"
+        urlTemplate: "https://kudora.org/?q={search_term_string}"
+      "query-input": "required name=search_term_string"
+
+performance_targets:
+  - "Lighthouse Performance Score > 90"
+  - "LCP < 2.0 seconds on all primary landing pages"
+  - "FID < 100ms for interactive elements"
+  - "CLS < 0.1 for visual stability"
+  - "SEO metadata complete and optimized across all core pages"
+  - "Lightweight static assets with aggressive caching strategy"
+  - "Mobile-first responsive design"
+  - "Accessibility score > 95 (WCAG 2.1 AA compliance)"
+
+technical_seo:
+  sitemap_priority:
+    home: 1.0
+    whitepaper: 0.9
+    docs: 0.9
+    validators: 0.8
+    ecosystem: 0.7
+    contact: 0.6
+
+  canonical_urls:
+    - "Always use https:// (SSL required)"
+    - "Prefer non-www version (kudora.org over www.kudora.org)"
+    - "Use trailing slash consistently for directory-style URLs"
+
+  structured_data_types:
+    - "Organization markup on homepage"
+    - "BreadcrumbList on all internal pages"
+    - "FAQPage on docs and support pages"
+    - "Article markup for blog/news content"
+
+rules_for_llm:
+  content_generation:
+    - "Generate SEO content based on this file's structure and guidelines"
+    - "Keep page titles under 60 characters for optimal SERP display"
+    - "Keep meta descriptions between 150-155 characters"
+    - "Use brand keywords consistently but naturally (avoid keyword stuffing)"
+    - "Avoid generic, templated text — provide specific, actionable information"
+    - "Maintain professional yet accessible brand voice throughout"
+    - "Prefer concise, clear technical explanations over verbose descriptions"
+    - "Highlight Cosmos SDK and IBC context when relevant to differentiate from non-Cosmos chains"
+
+  audience_targeting:
+    - "Target developer audience with technical accuracy and depth"
+    - "Provide validator-specific information with operational clarity"
+    - "Include beginner-friendly explanations alongside advanced technical details"
+    - "Address both Web3-native users and traditional developers exploring blockchain"
+
+  content_structure:
+    - "Use hierarchical heading structure (H1 > H2 > H3) for accessibility and SEO"
+    - "Propose logical internal links between core pages to improve site architecture"
+    - "Include clear CTAs appropriate to each page's purpose"
+    - "Add code examples and practical implementations where relevant"
+
+  source_authority:
+    - "Respect official resources listed in this file as authoritative sources"
+    - "Cite Cosmos SDK documentation for framework-specific information"
+    - "Reference IBC specifications when discussing interoperability features"
+    - "Link to GitHub repositories for technical implementation details"
+
+  updates_and_maintenance:
+    - "Empty fields indicate data not yet available - fill as information becomes available"
+    - "Network metrics should be updated quarterly or after major milestones"
+    - "Token listings should be updated immediately when new exchanges are added"
+    - "Community links must be verified and tested regularly"
+    - "Technical specifications should be updated with each network upgrade"
+
+content_guidelines:
+  writing_style:
+    - "Professional but not overly formal"
+    - "Technical but accessible (explain jargon on first use)"
+    - "Action-oriented with clear next steps"
+    - "Honest about current capabilities and future roadmap"
+    - "Community-focused and transparent"
+
+  forbidden_phrases:
+    - "Revolutionary" (overused in crypto)"
+    - "Going to the moon" (unprofessional)"
+    - "DYOR" (expect users to research, but provide information)"
+    - "Not financial advice" (irrelevant for infrastructure documentation)"
+    - Excessive hype language without substance
+
+  encouraged_language:
+    - "Built on proven Cosmos SDK technology"
+    - "Native IBC interoperability"
+    - "Production-ready infrastructure"
+    - "Developer-focused"
+    - "Community-governed"
+    - "Transparent roadmap"
+    - "Open-source"
+
+version_history:
+  - version: "2.0"
+    date: "2024-12-05"
+    changes: "Complete restructure with real data, removed all placeholder markers, added social links, cleaned empty fields"
+  - version: "1.2"
+    date: "Previous"
+    changes: "Original structure with basic metadata"
